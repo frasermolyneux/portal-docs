@@ -7,7 +7,6 @@
 | DevOps Secure Scanning  | [![DevOps Secure Scanning](https://github.com/frasermolyneux/portal-core/actions/workflows/devops-secure-scanning.yml/badge.svg)](https://github.com/frasermolyneux/portal-core/actions/workflows/devops-secure-scanning.yml)    |
 | Feature Development     | [![Feature Development](https://github.com/frasermolyneux/portal-core/actions/workflows/feature-development.yml/badge.svg)](https://github.com/frasermolyneux/portal-core/actions/workflows/feature-development.yml)             |
 | Pull Request Validation | [![Pull Request Validation](https://github.com/frasermolyneux/portal-core/actions/workflows/pull-request-validation.yml/badge.svg)](https://github.com/frasermolyneux/portal-core/actions/workflows/pull-request-validation.yml) |
-| Destroy Development     | [![Destroy Development](https://github.com/frasermolyneux/portal-core/actions/workflows/destroy-development.yml/badge.svg)](https://github.com/frasermolyneux/portal-core/actions/workflows/destroy-development.yml)             |
 | Release to Production   | [![Release to Production](https://github.com/frasermolyneux/portal-core/actions/workflows/release-to-production.yml/badge.svg)](https://github.com/frasermolyneux/portal-core/actions/workflows/release-to-production.yml)       |
 
 
@@ -18,7 +17,6 @@
 | Code Quality            | [![Code Quality](https://github.com/frasermolyneux/portal-event-ingest/actions/workflows/codequality.yml/badge.svg)](https://github.com/frasermolyneux/portal-event-ingest/actions/workflows/codequality.yml)                                    |
 | Feature Development     | [![Feature Development](https://github.com/frasermolyneux/portal-event-ingest/actions/workflows/feature-development.yml/badge.svg)](https://github.com/frasermolyneux/portal-event-ingest/actions/workflows/feature-development.yml)             |
 | Pull Request Validation | [![Pull Request Validation](https://github.com/frasermolyneux/portal-event-ingest/actions/workflows/pull-request-validation.yml/badge.svg)](https://github.com/frasermolyneux/portal-event-ingest/actions/workflows/pull-request-validation.yml) |
-| Destroy Development     | [![Destroy Development](https://github.com/frasermolyneux/portal-event-ingest/actions/workflows/destroy-development.yml/badge.svg)](https://github.com/frasermolyneux/portal-event-ingest/actions/workflows/destroy-development.yml)             |
 | Release to Production   | [![Release to Production](https://github.com/frasermolyneux/portal-event-ingest/actions/workflows/release-to-production.yml/badge.svg)](https://github.com/frasermolyneux/portal-event-ingest/actions/workflows/release-to-production.yml)       |
 
 ### Repository
@@ -28,7 +26,6 @@
 | Code Quality            | [![Code Quality](https://github.com/frasermolyneux/portal-repository/actions/workflows/codequality.yml/badge.svg)](https://github.com/frasermolyneux/portal-repository/actions/workflows/codequality.yml)                                          |
 | Feature Development     | [![Feature Development](https://github.com/frasermolyneux/portal-repository/actions/workflows/feature-development.yml/badge.svg?branch=main)](https://github.com/frasermolyneux/portal-repository/actions/workflows/feature-development.yml)       |
 | Pull Request Validation | [![Pull Request Validation](https://github.com/frasermolyneux/portal-repository/actions/workflows/pull-request-validation.yml/badge.svg)](https://github.com/frasermolyneux/portal-repository/actions/workflows/pull-request-validation.yml)       |
-| Destroy Development     | [![Destroy Development](https://github.com/frasermolyneux/portal-repository/actions/workflows/destroy-development.yml/badge.svg)](https://github.com/frasermolyneux/portal-repository/actions/workflows/destroy-development.yml)                   |
 | Release to Production   | [![Release to Production](https://github.com/frasermolyneux/portal-repository/actions/workflows/release-to-production.yml/badge.svg?branch=main)](https://github.com/frasermolyneux/portal-repository/actions/workflows/release-to-production.yml) |
 
 ### Repository Func
@@ -38,7 +35,6 @@
 | Code Quality            | [![Code Quality](https://github.com/frasermolyneux/portal-repository-func/actions/workflows/codequality.yml/badge.svg)](https://github.com/frasermolyneux/portal-repository-func/actions/workflows/codequality.yml)                                    |
 | Feature Development     | [![Feature Development](https://github.com/frasermolyneux/portal-repository-func/actions/workflows/feature-development.yml/badge.svg)](https://github.com/frasermolyneux/portal-repository-func/actions/workflows/feature-development.yml)             |
 | Pull Request Validation | [![Pull Request Validation](https://github.com/frasermolyneux/portal-repository-func/actions/workflows/pull-request-validation.yml/badge.svg)](https://github.com/frasermolyneux/portal-repository-func/actions/workflows/pull-request-validation.yml) |
-| Destroy Development     | [![Destroy Development](https://github.com/frasermolyneux/portal-repository-func/actions/workflows/destroy-development.yml/badge.svg)](https://github.com/frasermolyneux/portal-repository-func/actions/workflows/destroy-development.yml)             |
 | Release to Production   | [![Release to Production](https://github.com/frasermolyneux/portal-repository-func/actions/workflows/release-to-production.yml/badge.svg)](https://github.com/frasermolyneux/portal-repository-func/actions/workflows/release-to-production.yml)       |
 
 ### Servers Integration
@@ -48,7 +44,6 @@
 | Code Quality            | [![Code Quality](https://github.com/frasermolyneux/portal-servers-integration/actions/workflows/codequality.yml/badge.svg)](https://github.com/frasermolyneux/portal-servers-integration/actions/workflows/codequality.yml)                                    |
 | Feature Development     | [![Feature Development](https://github.com/frasermolyneux/portal-servers-integration/actions/workflows/feature-development.yml/badge.svg)](https://github.com/frasermolyneux/portal-servers-integration/actions/workflows/feature-development.yml)             |
 | Pull Request Validation | [![Pull Request Validation](https://github.com/frasermolyneux/portal-servers-integration/actions/workflows/pull-request-validation.yml/badge.svg)](https://github.com/frasermolyneux/portal-servers-integration/actions/workflows/pull-request-validation.yml) |
-| Destroy Development     | [![Destroy Development](https://github.com/frasermolyneux/portal-servers-integration/actions/workflows/destroy-development.yml/badge.svg)](https://github.com/frasermolyneux/portal-servers-integration/actions/workflows/destroy-development.yml)             |
 | Release to Production   | [![Release to Production](https://github.com/frasermolyneux/portal-servers-integration/actions/workflows/release-to-production.yml/badge.svg)](https://github.com/frasermolyneux/portal-servers-integration/actions/workflows/release-to-production.yml)       |
 
 ### Sync
@@ -58,7 +53,6 @@
 | Code Quality            | [![Code Quality](https://github.com/frasermolyneux/portal-sync/actions/workflows/codequality.yml/badge.svg)](https://github.com/frasermolyneux/portal-sync/actions/workflows/codequality.yml)                                    |
 | Feature Development     | [![Feature Development](https://github.com/frasermolyneux/portal-sync/actions/workflows/feature-development.yml/badge.svg)](https://github.com/frasermolyneux/portal-sync/actions/workflows/feature-development.yml)             |
 | Pull Request Validation | [![Pull Request Validation](https://github.com/frasermolyneux/portal-sync/actions/workflows/pull-request-validation.yml/badge.svg)](https://github.com/frasermolyneux/portal-sync/actions/workflows/pull-request-validation.yml) |
-| Destroy Development     | [![Destroy Development](https://github.com/frasermolyneux/portal-sync/actions/workflows/destroy-development.yml/badge.svg)](https://github.com/frasermolyneux/portal-sync/actions/workflows/destroy-development.yml)             |
 | Release to Production   | [![Release to Production](https://github.com/frasermolyneux/portal-sync/actions/workflows/release-to-production.yml/badge.svg)](https://github.com/frasermolyneux/portal-sync/actions/workflows/release-to-production.yml)       |
 
 ### Portal Website
